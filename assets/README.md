@@ -7,20 +7,21 @@
 #### Client Requirements
 
 + professional, presenting good image of company
-+ 
+ 
 
 #### Visitor Requirements
 
-+ Easy to navigate pages (e.g. all pages link back to the home page)
++ Easy to navigate pages (e.g. all pages link back to the home page, clear nav/search bar)
 + Loads fast
-+ good colour scheme (complementary colours)
-+ images of phones
-+ text must be easy to read 
-+ easy to access for everyone 
++ Good colour scheme (e.g. complementary colours)
++ See multiple phones
++ Text must be easy to read (e.g. Font, colour scheme)
++ Accessible to everyone (e.g. Responsive design, readable font)
 
 #### Developer Requirements
 
-+ all documents in markdown format
++ All documents in markdown format
 + clean, well-commented source code
-+ easy to understand file/folder names
-+ easy to access anywhere
++ Easy to understand file/folder names
++ Compatible with phones, pc and tablets 
++ 
