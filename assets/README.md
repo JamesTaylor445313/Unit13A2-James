@@ -23,5 +23,5 @@
 + All documents in markdown format
 + clean, well-commented source code
 + Easy to understand file/folder names
-+ Compatible with phones, pc and tablets 
++ compatiable with pc's and phones
 + 
