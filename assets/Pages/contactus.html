@@ -2,16 +2,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deals Of The Month</title>
+    <title>Contact Us</title>
     <link rel = "assets\css\styles.css"> 
     <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Deals Of The Month</title>
+    <title>Contact Us</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
+
+      <script>
+        function myFunction() {
+            alert("Thank you " + document.getElementById("fname").value + ". Your message has been sent.");
+        }
+    </script>
+
+   <!-- Java Script for time -->
+  <body onload="startTime()">
+
+    <div id="txt"></div>
+    
+    <script>
+    function startTime() {
+      const today = new Date();
+      let h = today.getHours();
+      let m = today.getMinutes();
+      let s = today.getSeconds();
+      m = checkTime(m);
+      s = checkTime(s);
+      document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+      setTimeout(startTime, 1000);
+    }
+    
+    function checkTime(i) {
+      if (i < 10) {i = "0" + i}; 
+      return i;
+    }
+    </script>
+    
+    </body>
+    </html>
+  
+    </html>
+      </head>
+
   <body>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -20,7 +56,7 @@
    <style> h2 {padding-top: 50px;} </style>
 
     <!-- Makes the title of the page center -->
-   <h2 class="d-flex justify-content-center ">Deals of the month</h2>
+   <h2 class="d-flex justify-content-center ">Contact Us</h2>
    
     <!-- Adds Website Logo-->
     <img src="../Images/Website logo.png">
@@ -56,18 +92,24 @@
       </div>
     </nav>    
     </div>
-<div>
-    <div class="mb-3">
-      <label for="exampleFormControlInput1" class="form-label">Email address:</label>
-      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-    </div>
-    <div class="mb-3">
-      <label for="exampleFormControlTextarea1" class="form-label">Message:</label>
-      <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="This is example text" rows="3"></textarea>
-    </div>
-    <div class="mb-3">
-      <button type="submit" class="btn btn-primary mb-3">Submit</button>
-    </div>
+
+    <form onsubmit="myFunction()">
+      <label for="fname"> First Name: </label>
+      <input type="text" id="fname" name="frame" required>
+
+      <label for="lname"> Last Name: </label>
+      <input type="text" id="lname" name="lrame" required>
+
+
+  <div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
+  <div class="mb-3">
+    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="This is example text."></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary mb-3">Submit</button>
+  </form>
 
   
