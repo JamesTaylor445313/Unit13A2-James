@@ -15,7 +15,35 @@
   <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
-</html>
+
+  <html>
+
+  <body onload="startTime()">
+
+  <div id="txt"></div>
+  
+  <script>
+  function startTime() {
+    const today = new Date();
+    let h = today.getHours();
+    let m = today.getMinutes();
+    let s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+    setTimeout(startTime, 1000);
+  }
+  
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+  }
+  </script>
+  
+  </body>
+  </html>
+
+  </html>
     </head>
 
     
@@ -27,8 +55,6 @@
    <h2 class="d-flex justify-content-center ">ICUphones</h2>
    
     <!-- Adds Website Logo-->
-
-
 <img src="../assets/Images/Website logo.png"> </img>
     
     
@@ -36,7 +62,7 @@
     <!-- Adds Padding for all div -->
     <style> div {padding-top: 10px;} </style>
 
-    <!-- Code for the nav bar -->
+    <!-- Adds a Nav bar so you can go to other pages -->
   </nav>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
@@ -80,15 +106,15 @@
 
       <!-- Text for deals of the month with even space between them-->
       <div class="d-flex justify-content-between">
-      <div class="border border-success">Samsung Galaxy S23 Ultra - 256 GB - Green £737</div>
-      <div class="border border-success">Silicone Case for Samsung Galaxy S23 Ultra 5G, Soft-Touch, Shockproof £10</div>
+      <div class="border border-success" ><a href="https://shop.samsung.com/ie/galaxy-s23-ultra-green-512-gb">Samsung Galaxy S23 Ultra - 512 GB - Green £737</a></div>
+      <div class="border border-success"> <a href="https://www.amazon.co.uk/YATWIN-Samsung-Galaxy-S23-Ultra-Dark-Green/dp/B0BTY68KQR?th=1">Case for Samsung Galaxy S23 Ultra 5G, Soft-Touch, Shockproof £10</a></div>
       <div class="border border-success">USB C Headphones for Samsung Galaxy £15</div>
       <div class="border border-success">USB C Plug, 45W Samsung Super Fast Charger Tab, Black £15</div>
       </div>
 
       <!---->
       <div class="d-flex flex-column mb-3">
-        <a type="button" class="btn btn-primary btn-lg active" href="..assets/Pages/phones.html">Phones</a>
+        <a type="button" class="btn btn-primary btn-lg active" href="../assets/Pages/phones.html">Phones</a>
         
       <!---->
         <div class="d-flex justify-content-between">
@@ -100,15 +126,15 @@
         
       <!---->
         <div class="d-flex justify-content-between">
-          <div class="border border-success">Samsung Galaxy S23 Ultra - 256 GB - Green £737</div>
-          <div class="border border-success">Galaxy S21 Fe 5G - 128 GB, Lavender £699</div>
-          <div class="border border-success"> Galaxy A54 5G 128GB Awesome White £254</div>
-          <div class="border border-success">Samsung Galaxy S24 - 128 GB - Onyx Black £799</div>
+          <div class="border border-success"><a href="https://shop.samsung.com/ie/galaxy-s23-ultra-green-512-gb" >Samsung Galaxy S23 Ultra - 512 GB - Green £737</a></div>
+          <div class="border border-success"><a href="https://shop.samsung.com/ie/galaxy-s21-fe-5g-lavender-128-gb" >Galaxy S21 Fe 5G - 128 GB, Lavender £662</a></div>
+          <div class="border border-success"><a href="https://shop.samsung.com/ie/galaxy-a54-5g-awesome-lime-128-gb" > Galaxy A54 5G 128GB Awesome Lime £438</a></div>
+          <div class="border border-success"><a href="https://shop.samsung.com/ie/sm-s926bzkdeub" >Samsung Galaxy S24 - 128 GB - Onyx Black £799</a></div>
           </div>
           
       <!---->
         <div class="d-flex flex-column mb-3">
-          <a type="button" class="btn btn-primary btn-lg active" href="../Unit13A2-James/assets/Pages/cases.html">Cases</a>
+          <a type="button" class="btn btn-primary btn-lg active" href="../assets/Pages/cases.html">Cases</a>
           
       <!---->
           <div class="d-flex justify-content-between">
@@ -120,15 +146,15 @@
 
       <!---->
           <div class="d-flex justify-content-between">
-            <div class="border border-success">Silicone Case for Samsung Galaxy S23 Ultra 5G, £10</div>
-            <div class="border border-success">Silicone Case for Samsung Galaxy S21, £9 </div>
-            <div class="border border-success">Olixar Silicone Case For Samsung Galaxy A54 5G £9.99</div>
-            <div class="border border-success">Silicone Case for Samsung Galaxy S24 Ultra £11.99</div>
+            <div class="border border-success"> <a href="https://www.amazon.co.uk/YATWIN-Samsung-Galaxy-S23-Ultra-Dark-Green/dp/B0BTY68KQR?th=1"> Case for Samsung Galaxy S23 Ultra 5G, £10</a></div>
+            <div class="border border-success"> <a href="https://www.amazon.co.uk/GiiYoon-Case-Compatible-S21-White/dp/B0B18BWV9M"> Silicone Case for Samsung Galaxy S21, £9</a></div>
+            <div class="border border-success"> <a href="https://www.mobilefun.co.uk/olixar-black-soft-silicone-case-for-samsung-galaxy-a54-5g-93211?utm_source=google_shopping&utm_medium=organic&utm_campaign=shopping_free_clicks&referer=pla-93211&cur=0&gad_source=1&gclid=EAIaIQobChMIvs-y_rGNhgMVGZVQBh3DvAk1EAQYASABEgIXAPD_BwE"> Olixar Silicone Case For Samsung Galaxy A54 5G £9.99</a></div>
+            <div class="border border-success"> <a href="https://www.amazon.co.uk/GiiYoon-Case-Compatible-S21-White/dp/B0B18BWV9M"> Silicone Case for Samsung Galaxy S24 Ultra £11.99</a></div>
             </div>
             
       <!---->
           <div class="d-flex flex-column mb-3">
-            <a type="button" class="btn btn-primary btn-lg active" href="../Unit13A2-James/assets/Pages/chargers.html">Chargers</a>
+            <a type="button" class="btn btn-primary btn-lg active" href="../assets/Pages/chargers.html">Chargers</a>
             
 
       <!---->
@@ -141,15 +167,15 @@
               
       <!---->
             <div class="d-flex justify-content-between">
-              <div class="border border-success">USB C Plug, 45W Samsung Super Fast Charger £15</div>
-              <div class="border border-success">USB C Charger Cable 2m3.1A Type C Fast Charging £4.99</div>
-              <div class="border border-success">USB C Charger Cable Fast Charger £2.99</div>
-              <div class="border border-success">USB C Plug, Samsung Fast Charger Tab, Black £15</div>
+              <div class="border border-success"> <a href="https://www.amazon.co.uk/Samsung-Super-Charger-Replacement-Galaxy/dp/B0C9PLYLDM">USB C Plug, 45W Samsung Super Fast Charger £15</a></div>
+              <div class="border border-success"> <a href="https://www.amazon.co.uk/Charger-INIU-Charging-Braided-Samsung-1-Pcs/dp/B09P8KM9Z6">USB C Charger Cable Fast Charging £5 </a></div>
+              <div class="border border-success"> <a href="https://www.amazon.co.uk/TOKINGO-Charger-charger-Compatible-S21Ultra/dp/B0C4GVZZKH?th=1">USB C Charger Cable Fast Charger Durable £3 </a></div>
+              <div class="border border-success"> <a href="https://www.amazon.co.uk/CHARGEWAY-Compatible-Smartphones-Devices%EF%BC%8CSamsung-Charge%EF%BC%8CFast-Black/dp/B0BZSGGG4Y"></a>Samsung Phone 25W Fast Charger Plug £10</div>
               </div>
               
       <!---->
             <div class="d-flex flex-column mb-3">
-              <a type="button" class="btn btn-primary btn-lg active" href="../Unit13A2-James/assets/Pages/headphones.html">Headphones</a>
+              <a type="button" class="btn btn-primary btn-lg active" href="../assets/Pages/headphones.html">Headphones</a>
               
       <!---->
               <div class="d-flex justify-content-between">
@@ -161,12 +187,10 @@
               
       <!---->
               <div class="d-flex justify-content-between">
-                <div class="border border-success">USB C Headphones for Samsung Galaxy £15 </div>
-                <div class="border border-success">Samsun Stereo Headset Samsung Galaxy £10 </div>
-                <div class="border border-success">USB C Headphones for Samsung Galaxy £15</div>
-                <div class="border border-success">Samsung Galaxy Buds Live - Mystic Black £119.99</div>
+                <div class="border border-success"> <a href="https://www.amazon.co.uk/Headphones-Earphones-microphones-Compatible-Black/dp/B0BYNSPWLS/ref=asc_df_B0BYNSPWLS/?tag=googshopuk-21&linkCode=df0&hvadid=658797825103&hvpos=&hvnetw=g&hvrand=4776987203273363233&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044882&hvtargid=pla-2194344689889&psc=1&mcid=3b1c352b15413e1ba43e81739fb828d7">USB C Headphones for Samsung Galaxy £15 </a></div>
+                <div class="border border-success"> <a href="https://www.amazon.in/Renewed-Samsung-Original-Type-C-Earphone/dp/B0B88CHCB3"> Samsung Galaxy-Stereo Headset - Black £6 </a></div>
+                <div class="border border-success"> <a href="https://www.ebay.co.uk/itm/363308947123">Samsung Galax S20 Headphones Type C £11</a></div>
+                <div class="border border-success"> <a href="https://www.amazon.co.uk/Samsung-Galaxy-Wireless-Earphones-Version/dp/B08C5HYHYB?th=1">Samsung Galaxy Buds Live - Mystic Black £119.99 </a></div>
                 </div>
-                
-  
-</body>
+              </body>
 </html>
