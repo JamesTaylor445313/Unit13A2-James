@@ -2,8 +2,6 @@
 
 ## Assignment Two
 
-
-
 ### User Requirements
 
 #### Client Requirements
@@ -26,7 +24,7 @@
 + Easy to understand file/folder names
 + compatible with pc's and phones
 
-## Assignment 4
+## Assignment four
 
 ### Feedback
 
