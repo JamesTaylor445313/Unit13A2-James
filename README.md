@@ -24,7 +24,7 @@
 + Easy to understand file/folder names
 + compatible with pc's and phones
 
-## Assignment four
+## Assignment Four
 
 ### Feedback
 
