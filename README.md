@@ -2,11 +2,7 @@
 
 ## Assignment Two
 
-## Task 4
 
-Overall the website I created meets the user requirements because it’s easy to navigate since there is a nav bar and buttons what stand out to take you to different pages of the website and the font is easy to read because it’s a simple font making it easy to use by people with reading disabilities it’s also a responsive design because it works on both pc and phones there are multiple pictures to look at on the website of phones, headsets, chargers and cases the website loads fast overall giving the user a better experience viewing the website.
-
-The initial design of the website I had put the title on the right hand side of the logo on all pages but I decided to change the design and put the title on the top centre of the page the reason behind this change was because I preferred the look of the title being this way and it's also the first thing the viewer of the website will see so it lets them know thereon the corret page of the website. The second change I decied to make is I made the buttons take up the whole width of the page instead of having them being a smaller button above the pictures the reason I made this change was I preferred the look of it and it makes the buttons stand out more so the users know its there. The third change I decied to make is with the contact page it was originally going to have to pages one with the company details with some text with a link guiding you to the message page and the othere having a form so you can write your own message and send it straight to the comapny the reason I made that change is because I thought it would make the proccess of contacting the company moer confuing so I just put the form on the Contact us page. The fourth change I decided to make is with the logo it was Originally going to be a hotspot guiding you back to the home page but I didn't know how to do it so i scraped the idea and just left it as a picture.
 
 ### Feedback
 
@@ -50,3 +46,11 @@ Overall the feedback what Darius gave was possitive however there was a few thin
 + clean, well-commented source code
 + Easy to understand file/folder names
 + compatible with pc's and phones
+
+## Assignment 4
+
+### Task 4
+
+Overall the website I created meets the user requirements because it’s easy to navigate since there is a nav bar and buttons what stand out to take you to different pages of the website and the font is easy to read because it’s a simple font making it easy to use by people with reading disabilities it’s also a responsive design because it works on both pc and phones there are multiple pictures to look at on the website of phones, headsets, chargers and cases the website loads fast overall giving the user a better experience viewing the website.
+
+The initial design of the website I had put the title on the right hand side of the logo on all pages but I decided to change the design and put the title on the top centre of the page the reason behind this change was because I preferred the look of the title being this way and it's also the first thing the viewer of the website will see so it lets them know there on the correct page of the website. The second change I decided to make is I made the buttons take up the whole width of the page instead of having them being a smaller button above the pictures the reason I made this change was I preferred the look of it, and it makes the buttons stand out more, so the users know it’s there. The third change I decided to make is with the contact page it was originally going to have to pages one with the company details with some text with a link guiding you to the message page and the other having a form so you can write your own message and send it straight to the company the reason I made that change is because I thought it would make the process of contacting the company more confusing so I just put the form on the Contact us page. The fourth change I decided to make is with the logo it was Originally going to be a hotspot guiding you back to the home page, but I didn't know how to do it, so I scraped the idea and just left it as a picture.
