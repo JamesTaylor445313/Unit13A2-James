@@ -24,6 +24,19 @@
 + Easy to understand file/folder names
 + compatible with pc's and phones
 
+## Design for wireframes
+
+The font that I have decided on for the website is Arial the reasoning behind the font choice is that it is a standard font and not fancy a one making the font more legible for people with disabilities such as dyslexia and overall make the website more understandable.
+
+The colour scheme I have decided on for the website is the combination of black, white and blue the black colour will be (#000000) and will be used for mainly text such as my nav bar, titles, forms and any other text. The white colour will be (#FFFFFF) and will be used for the background of the website and for the text on the buttons so it doesn’t clash with the dark blue like the black would. The blue will be a dark blue (#0000FF) and will be used for the buttons of the website so the user understands the are interactive and take you to the other pages and it will be used also for the links of the website what take you to the pages to buy the phones the reason I have chosen this colour scheme because it doesn't clash with the other colours making the website easier to understand for the user. 
+
+The layout of the website will have an organised look to it. The way I will make this happen is the pictures will have equal distance between them making them look more tidy and easier to look at I will also have a title at the top of each page showing the user that their on the correct page for the home page I will be having buttons above the pictures saying what they are and if the user wants to view all the products available they can just click on the button and it takes them straight to the corresponding page. 
+
+For the interative features I have decided I to use a nav bar, buttons, links an a hotspot I have chosen to use a nav bar and buttons because it's a way for the user to navigate around the website easily the reason for using links is that it will bring the user to the page where they will be able to by the phone they want. I have chosen to use a hotspot because It's a easy way to navigate back to the homepage.
+
+The website you can access from both mobile devices and pc devices both pc and mobile have different layouts corresponding to the device your on to fit the requirements for both pc.
+
+The design I have chosen for the website is design 1 I have chosen this design because I prefer the style of the home page of the first design because I decided to put a title on the page because having titles on each page makes the user know what page there on and it makes the overall look of the website more professional and organised I prefer design 1 because It just has a nav bar and not a search bar and a navbar.
 ## Assignment Four
 
 ### Feedback
