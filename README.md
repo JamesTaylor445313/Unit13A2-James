@@ -38,11 +38,11 @@ The website you can access from both mobile devices and pc devices both pc and m
 
 The design I have chosen for the website is design 1 I have chosen this design because I prefer the style of the home page of the first design because I decided to put a title on the page because having titles on each page makes the user know what page there on and it makes the overall look of the website more professional and organized I prefer design 1 because It just has a nav bar and not a search bar and a navbar.
 
-|   |   |   |   |   |
+|  Test |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   1   |   |   |   |   |
+|   2   |   |   |   |   |
+|   3   |   |   |   |   |
 ## Assignment Four
 
 ### Feedback
