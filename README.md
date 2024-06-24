@@ -38,11 +38,12 @@ The website you can access from both mobile devices and pc devices both pc and m
 
 The design I have chosen for the website is design 1 I have chosen this design because I prefer the style of the home page of the first design because I decided to put a title on the page because having titles on each page makes the user know what page there on and it makes the overall look of the website more professional and organized I prefer design 1 because It just has a nav bar and not a search bar and a navbar.
 
-|  Test |   |   |   |   |
-|---|---|---|---|---|
-|   1   |   |   |   |   |
-|   2   |   |   |   |   |
-|   3   |   |   |   |   |
+| Test | Being tested            | How to carry out the test                       | What it is meant to do                                                                                                  | What it actually does                                                               |
+|------|-------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|  1   | Buttons                 | Click on each button on each page.              | Meant to take you to the corresponding page it is named as.                                                             | The buttons work as intended by taking you to the corresponding pages.              |
+|  2   | Links                   | Click on each link on each page of the website. | Clicking on the links are meant to take you to page where you can buy the product.                                      | All the links work and take you to the site to buy the product.                     |
+|  3   | Form on contact us page | Fill out the the form and click submit.         | The form is meant to go blank again and a message is ment to show up saying "Thank you .... your message has been sent" | The form works fine the message shows up correctly and goes blank after you submit. |
+
 ## Assignment Four
 
 ### Feedback
