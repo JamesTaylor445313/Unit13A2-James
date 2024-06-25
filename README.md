@@ -45,7 +45,7 @@ The design I have chosen for the website is design 1 I have chosen this design b
 |  1   | Buttons and nav bar                 | Click on each button on each page.              | Meant to take you to the corresponding page it is named as.                                                             | The buttons and navbar work as intended by taking you to the corresponding pages.              |
 |  2   | Links                   | Click on each link on each page of the website. | By clicking on the links they are meant to take you to page where you can buy the product.                                      | All the links work and take you to the site to buy the product.                     |
 |  3   | Form on contact us page | Fill out the the form and click submit.         | The form is meant to go blank again and a message is ment to show up saying "Thank you .... your message has been sent" | The form works fine the message shows up correctly and goes blank after you submit. |
-
+|  4   | Loads fast | Use the nav bar and buttons to go to each page and see if they load quickly         | the pages are meant to load fast  | the pages load as intended  |
 
 
 ## Assignment Four
