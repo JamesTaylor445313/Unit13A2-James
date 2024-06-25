@@ -42,7 +42,7 @@ The design I have chosen for the website is design 1 I have chosen this design b
 
 Tested On Both:
 Google Chrome: Version 126.0.6478.63 (Official Build) (64-bit) and
-Microsoft Edge: Version 126.0.2592.68 (Official build) (64-bit) the website loads correctly on both Chrome and Edge with no issue 
+Microsoft Edge: Version 126.0.2592.68 (Official build) (64-bit) the website loads correctly on both Chrome and Edge with no issues.
 
 | Test | Being tested            | How to carry out the test                       | What it is meant to do                                                                                                  | What it actually does                                                               |
 |------|-------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
