@@ -83,7 +83,7 @@ Overall the feedback what Darius gave was possitive however there was a few thin
 
 #### Client Requirements
 
-+ professional, presenting good image of company - []
+- [] + professional, presenting good image of company 
  
 #### Visitor Requirements
 
