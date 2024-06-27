@@ -52,7 +52,7 @@ Microsoft Edge: Version 126.0.2592.68 (Official build) (64-bit) the website load
 |  4   | Loads fast | Use the nav bar and buttons to go to each page and see if they load quickly         | the pages are meant to load fast  | the pages load as intended  |
 |  5   | Picture Render | Go on each page to see if the picture has loaded and are in the correct space       | most of  the pictures are meant to load and show pictures corresponding to the link/Button except the Logo  | All the pictures load in the correct space and work as intended   |
 
-In the website the clock on the Home Page has been implemented wrong because it don't work Darius in his feedback mentions 
+In the testing for the website the clock on the Home Page has been implemented wrong because it don't work Darius in his feedback mentions this as well
 ## Assignment Four
 
 ### Feedback
@@ -75,7 +75,7 @@ The second thing that I think the creator should adjust/change it to change desi
 The third thing that I think the creator should change is the About us page because there is nothing when I am doing this feedback.
 
 
-Overall the feedback what Darius gave was possitive however there was a few things that needed improving. I agree with the improvements Darius gave me about adjusting the clock so it works and add content to the About us page on the website and will doing/fixing the improvements in the resubmission of the assignment.
+Overall the feedback what Darius gave was positive however there was a few things that needed improving. I agree with the improvements Darius gave me about adjusting the clock so it works and add content to the About us page on the website and will doing/fixing the improvements in the resubmission of the assignment.
 
 ### Task 4
 
