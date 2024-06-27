@@ -83,16 +83,17 @@ Overall the feedback what Darius gave was possitive however there was a few thin
 
 #### Client Requirements
 
-- [] + professional, presenting good image of company 
++ professional, presenting good image of company
+
  
 #### Visitor Requirements
 
-+ Easy to navigate pages (e.g. all page's link back to the home page, clear nav/search bar) -[]
-+ Loads fast -[] 
-+ Good colour scheme (e.g. complementary colours) -[]
-+ See multiple phones -[]
-+ Text must be easy to read (e.g. Font, colour scheme) - []
-+ Accessible to everyone (e.g. Responsive design, readable font) -[]
++ Easy to navigate pages (e.g. all page's link back to the home page, clear nav/search bar) 
++ Loads fast
++ Good colour scheme (e.g. complementary colours)
++ See multiple phones
++ Text must be easy to read (e.g. Font, colour scheme)
++ Accessible to everyone (e.g. Responsive design, readable font)
 
 #### Developer Requirements
 
