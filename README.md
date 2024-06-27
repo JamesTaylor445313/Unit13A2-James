@@ -89,18 +89,36 @@ Overall the feedback what Darius gave was possitive however there was a few thin
 #### Visitor Requirements
 
 + Easy to navigate pages (e.g. all page's link back to the home page, clear nav/search bar) 
+
+
 + Loads fast
+
+
 + Good colour scheme (e.g. complementary colours)
+
+
 + See multiple phones
+
+
 + Text must be easy to read (e.g. Font, colour scheme)
+
+
 + Accessible to everyone (e.g. Responsive design, readable font)
+
 
 #### Developer Requirements
 
 + All documents in markdown format
+
+
 + clean, well-commented source code
+
+
 + Easy to understand file/folder names
+
+
 + compatible with pcs and phones
+
 
 Overall the website I created meets the user requirements because it’s easy to navigate since there is a nav bar and buttons what stand out to take you to different pages of the website and the font is easy to read because it’s a simple font making it easy to use by people with reading disabilities it’s also a responsive design because it works on both pc and phones there are multiple pictures to look at on the website of phones, headsets, chargers and cases the website loads fast overall giving the user a better experience viewing the website.
 
