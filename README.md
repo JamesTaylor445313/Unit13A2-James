@@ -16,7 +16,10 @@
 + See multiple phones
 + Text must be easy to read (e.g. Font, colour scheme)
 + Accessible to everyone (e.g. Responsive design, readable font)
-+ Interactive features
+
+#### Assignment Requirements
++ interactive features
++ Java Script
 
 #### Developer Requirements
 
@@ -53,7 +56,7 @@ Microsoft Edge: Version 126.0.2592.68 (Official build) (64-bit) the website load
 |  4   | Loads fast | Use the nav bar and buttons to go to each page and see if they load quickly         | the pages are meant to load fast  | the pages load as intended  |
 |  5   | Picture Render | Go on each page to see if the picture has loaded and are in the correct space       | most of  the pictures are meant to load and show pictures corresponding to the link/Button except the Logo  | All the pictures load in the correct space and work as intended   |
 
-When testing the website the clock on the home page was implemented wrong so the clock broke and didn't work as intended. The issue of the clock was fixed the thing what was wrong with it is that there was a spelling error in the code stopping the code from working. The reason why having the clock not working as intended would affect the user is that they wouldn't be able to see the time on the top left side of the website if they wanted to because having the clock on the top left makes it easier for the user to view the time than having to look at the bottom right and it wouldn't meet the user requirements for the assignment because you need to have interactive features for the website.
+When testing the website the clock on the home page was implemented wrong so the clock broke and didn't work as intended. The issue of the clock was fixed the thing what was wrong with it is that there was a spelling error in the code stopping the code from working. The reason why having the clock not working as intended would affect the user is that it wouldn't meet the user requirements for the assignment because you need to have interactive features and Java Script for the website.
 
 ## Assignment Four
 
