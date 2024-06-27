@@ -52,7 +52,7 @@ Microsoft Edge: Version 126.0.2592.68 (Official build) (64-bit) the website load
 |  4   | Loads fast | Use the nav bar and buttons to go to each page and see if they load quickly         | the pages are meant to load fast  | the pages load as intended  |
 |  5   | Picture Render | Go on each page to see if the picture has loaded and are in the correct space       | most of  the pictures are meant to load and show pictures corresponding to the link/Button except the Logo  | All the pictures load in the correct space and work as intended   |
 
-In the testing for the website the clock on the Home Page has been implemented wrong because it don't work Darius in his feedback mentions this as well
+When testing the website the clock on the home page was implemented wrong so the clock broke and didn't work as intended. The way this would affect the user is that they wouldn't be able to see the time in the top left of the page 
 ## Assignment Four
 
 ### Feedback
