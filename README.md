@@ -90,25 +90,33 @@ Overall the feedback what Darius gave was positive however there was a few thing
 
 + professional, presenting good image of company
 
+
  
 #### Visitor Requirements
 
 + Easy to navigate pages (e.g. all page's link back to the home page, clear nav/search bar) 
 
+The website I created is easy to navigate because the website consists of a nav bar and buttons what stands out the buttons and nav bar takes you to different pages of the website which are all linked so whatever page your on you can then go on any page which makes it easy to navigate for the user because all pages are linked to one an other.
 
 + Loads fast
 
+The website meets this user requirement because the website loads fast on both Microsoft Edge and Google Chrome  
 
 + Good colour scheme (e.g. complementary colours)
 
+The website meets this user requirements by using complementary colours the colour scheme consists of white, blue and black the white is used for the background of the website the blue colour is used for links and buttons on the website so user knows what features are interactive other than the nav bar the black colour is used for the main bulk of text such as headings, nav bar, contact us page and about us.
 
 + See multiple phones
 
+The website meets this user requirement because there are multiple pictures of phones and also there is multiple other pictures of phone cases, headphones and chargers to give the user a overall better viewing experience of the website.
 
 + Text must be easy to read (e.g. Font, colour scheme)
 
+The website meets this user requirement because the font used is a default font Arial this font is easy to read since it is not fancy and is legible.
 
 + Accessible to everyone (e.g. Responsive design, readable font)
+
+The website meets this user requirement because the font is legible being Arial and the website is available on a mobile device. 
 
 
 #### Developer Requirements
@@ -118,11 +126,17 @@ Overall the feedback what Darius gave was positive however there was a few thing
 
 + clean, well-commented source code
 
+meets this user requirement since on each page there are comments on what the code does.
 
 + Easy to understand file/folder names
 
+meets the user requirement by having easy to understand file/folder for example the folders for the website are css, images and pages this allows the user to understand what are ment to be in the corresponding folder in the pages folder there are html files called aboutus, cases, chargers, cases, contactus, dealsofthemonth, headphones and phones these file names are easy to understand since they are clear to what page they.
+
 
 + compatible with pcs and phones
+
+meets this requirement since website is available on both phones and pcs. 
+
 
 
 Overall the website I created meets the user requirements because it’s easy to navigate since there is a nav bar and buttons what stand out to take you to different pages of the website and the font is easy to read because it’s a simple font making it easy to use by people with reading disabilities it’s also a responsive design because it works on both pc and phones there are multiple pictures to look at on the website of phones, headsets, chargers and cases the website loads fast overall giving the user a better experience viewing the website.
