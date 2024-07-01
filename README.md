@@ -90,13 +90,12 @@ Overall the feedback what Darius gave was positive however there was a few thing
 
 + professional, presenting good image of company
 
-
  
 #### Visitor Requirements
 
 + Easy to navigate pages (e.g. all page's link back to the home page, clear nav/search bar) 
 
-The website I created is easy to navigate because the website consists of a nav bar and buttons what stands out the buttons and nav bar takes you to different pages of the website which are all linked so whatever page your on you can then go on any page which makes it easy to navigate for the user because all pages are linked to one an other.
+The website meets this user requirement because it is easy to navigate because the website consists of a nav bar and buttons what stands out the buttons and nav bar takes you to different pages of the website which are all linked so whatever page your on you can then go on any page which makes it easy to navigate for the user because all pages are linked to one an other.
 
 + Loads fast
 
@@ -123,6 +122,7 @@ The website meets this user requirement because the font is legible being Arial 
 
 + All documents in markdown format
 
+meets this user requirement 
 
 + clean, well-commented source code
 
