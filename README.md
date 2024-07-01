@@ -117,6 +117,14 @@ The website meets this user requirement because the font used is a default font 
 
 The website meets this user requirement because the font is legible being Arial and the website is available on a mobile device. 
 
+#### Assignment Requirements
++ interactive features
+
+The website meets this user requirement by having a nav bar, links and buttons 
+
++ Java Script
+
+The website meets this user requirement by having a clock on the top left of each of the corresponding page that uses java script.
 
 #### Developer Requirements
 
