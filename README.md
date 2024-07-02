@@ -86,10 +86,6 @@ Overall the feedback what Darius gave was positive however there was a few thing
 
 ### User Requirements
 
-#### Client Requirements
-
-+ professional, presenting good image of company
-
  
 #### Visitor Requirements
 
@@ -99,11 +95,11 @@ The website meets this user requirement because it is easy to navigate because t
 
 + Loads fast
 
-The website meets this user requirement because the website loads fast on both Microsoft Edge and Google Chrome.
+The website meets this user requirement because the website loads fast on both Microsoft Edge and Google Chrome with everything still loading as expectied for the website to function correctly.
 
 + Good colour scheme (e.g. complementary colours)
 
-The website meets this user requirements by using complementary colours the colour scheme consists of white, blue and black the white is used for the background of the website the blue colour is used for links and buttons on the website so user knows what features are interactive other than the nav bar the black colour is used for the main bulk of text such as headings, nav bar, contact us page and about us.
+The website meets this user requirements by using complementary colours the colour scheme but the website don't isn't colourfull but that is by design choice because it still makes it look professional the colour scheme consists of white, blue and black the white is used for the background of the website the blue colour is used for links and buttons on the website so user knows what features are interactive other than the nav bar the black colour is used for the main bulk of text such as headings, nav bar, contact us page and about us.
 
 + See multiple phones
 
@@ -111,16 +107,16 @@ The website meets this user requirement because there are multiple pictures of p
 
 + Text must be easy to read (e.g. Font, colour scheme)
 
-The website meets this user requirement because the font used is a default font Arial this font is easy to read since it is not fancy and is legible.
+The website meets this user requirement because the font used is a default font Arial this font is easy to read since it is not fancy and is legible and along with the colour scheme makes the website easy to read because the colour scheme consists of complementary colours making the text and the overall website easier to read than having colours what clash.
 
 + Accessible to everyone (e.g. Responsive design, readable font)
 
-The website meets this user requirement because the font is legible being Arial and the website is available on a mobile device. 
+The website meets this user requirement because the font used for the website is Arial and the website being Responsive design with pc and mobile.
 
 #### Assignment Requirements
 + interactive features
 
-The website meets this user requirement by having a nav bar, links and buttons 
+The website meets this user requirement by having a nav bar, links and buttons. 
 
 + Java Script
 
@@ -130,7 +126,7 @@ The website meets this user requirement by having a clock on the top left of eac
 
 + All documents in markdown format
 
-meets this user requirement 
+meets this user requirement because all the decumentation is done in the mark down format
 
 + clean, well-commented source code
 
