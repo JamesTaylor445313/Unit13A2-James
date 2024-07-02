@@ -95,7 +95,7 @@ Overall the feedback what Darius gave was positive however there was a few thing
 
 + Easy to navigate pages (e.g. all page's link back to the home page, clear nav/search bar) 
 
-The website meets this user requirement because it is easy to navigate because the website consists of a nav bar and buttons what stands out the buttons and nav bar takes you to different pages of the website which are all linked so whatever page your on you can then go on any page which makes it easy to navigate for the user because all pages are linked to one an other.
+The website meets this user requirement because it is easy to navigate because the website consists of a nav bar and buttons what stands out the buttons and nav bar takes you to different pages of the website which are all linked so whatever page your on you can then go on any page which makes it easy to navigate for the user because all pages are linked to one an other. 
 
 + Loads fast
 
