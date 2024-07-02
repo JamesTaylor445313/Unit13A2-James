@@ -99,7 +99,7 @@ The website meets this user requirement because it is easy to navigate because t
 
 + Loads fast
 
-The website meets this user requirement because the website loads fast on both Microsoft Edge and Google Chrome  
+The website meets this user requirement because the website loads fast on both Microsoft Edge and Google Chrome.
 
 + Good colour scheme (e.g. complementary colours)
 
